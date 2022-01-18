@@ -1,0 +1,1 @@
+export const nama = "Marselinus Harson Rewo"
