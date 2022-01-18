@@ -6,8 +6,7 @@ function sum(a, b) {
 
 class Company {}
 
-//alias in export
+//alias in export (not recomended)
 // export { company as perusahaan, sum as total, Company as Perusahaan };
 
-//alias in import
-export { company , sum , Company};
+export { company, sum, Company };
