@@ -4,8 +4,6 @@ function sum(a, b) {
   return a + b;
 }
 
-class Company{
+class Company {}
 
-}
-
-export{company,sum,Company}
+export { company, sum, Company };
